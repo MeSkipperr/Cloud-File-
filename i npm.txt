@@ -1,0 +1,7 @@
+npm i  express
+npm i ejs
+npm i fs
+npm i express-fileupload
+npm i crypto
+npm i path
+npm i 
